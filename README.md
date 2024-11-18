@@ -52,7 +52,7 @@ Mi objetivo es desarrollar software con alto impacto, usando principios de dise�
 - ☕ Java es mi lenguaje favorito (¡pero también me atrevo con Python de vez en cuando!).
 
 ### 📫 Conéctate conmigo
-- **Email**: [estebangumy05@gmail.com](mailto:estebangumy05@gmail.com)
+- **Email**: estebangumy05@gmail.com
 - **LinkedIn**: [linkedin.com/in/zNotKayn](https://www.linkedin.com/in/zNotKayn)
 - **GitHub**: [github.com/Estebangmz666](https://github.com/Estebangmz666)
 
