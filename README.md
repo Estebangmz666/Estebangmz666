@@ -53,7 +53,7 @@ Mi objetivo es desarrollar software con alto impacto, usando principios de dise�
 
 ### 📫 Conéctate conmigo
 - **Email**: [estebangumy05@gmail.com](mailto:estebangumy05@gmail.com)
-- **LinkedIn**: [linkedin.com/in/zNotKayn](www.linkedin.com/in/zNotKayn)
+- **LinkedIn**: [www.linkedin.com/in/zNotKayn](www.linkedin.com/in/zNotKayn)
 - **GitHub**: [github.com/Estebangmz666](https://github.com/Estebangmz666)
 
 ---
