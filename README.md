@@ -34,6 +34,9 @@ Soy estudiante de Ingeniería de Sistemas y Computación en AXM, Quindío, actua
 ### 📈 Mis Objetivos
 Mi objetivo es desarrollar software con alto impacto, usando principios de diseño robusto y técnicas avanzadas de programación. Me esfuerzo en aplicar buenas prácticas y metodologías ágiles en mis proyectos, y siempre estoy en búsqueda de nuevas oportunidades de aprendizaje en desarrollo y sistemas.
 
+### 🌐 Portafolio
+- **[Mi portafolio en línea](https://estebangmz666.github.io)** - Descubre más sobre mis proyectos y experiencia.
+
 ### 🌱 Actualmente aprendiendo
 - Implementación avanzada de algoritmos y estructuras de datos
 - Fundamentos de criptografía y seguridad informática
