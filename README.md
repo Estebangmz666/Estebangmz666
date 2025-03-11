@@ -1,7 +1,7 @@
 # Hola, soy Esteban Gómez León 👋
 
 ### Sobre mí
-Soy estudiante de Ingeniería de Sistemas y Computación en AXM, Quindío, actualmente cursando el cuarto semestre. Me especializo en el desarrollo de software, con un fuerte enfoque en **Java**, **JavaFX**, **Programación Concurrente (Hilos y Sockets)**, y proyectos con **Arduino**.
+Soy estudiante de Ingeniería de Sistemas y Computación en AXM, Quindío, actualmente cursando el quinto semestre. Me especializo en el desarrollo de software, con un fuerte enfoque en **Java**, **JavaFX**, **Programación Concurrente (Hilos y Sockets)**, y proyectos con **Arduino**.
 
 ### 🚀 Habilidades Técnicas
 - **Lenguajes de programación**: Java, Python, C/C++, Arduino
