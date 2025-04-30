@@ -1,64 +1,39 @@
-# Hola, soy Esteban Gómez León 👋
+# Esteban Gómez León
 
-### Sobre mí
-Soy estudiante de Ingeniería de Sistemas y Computación en AXM, Quindío, actualmente cursando el quinto semestre. Me especializo en el desarrollo de software, con un fuerte enfoque en **Java**, **JavaFX**, **Programación Concurrente (Hilos y Sockets)**, y proyectos con **Arduino**.
+### About Me
+I am a Systems and Computer Engineering student from Quindío, Colombia, currently in my fifth semester. My main interests lie in software development, particularly in **Java**, **JavaFX**, and **concurrent programming (threads and sockets)**.
 
-### 🚀 Habilidades Técnicas
-- **Lenguajes de programación**: Java, Python, C/C++, Arduino
-- **Frameworks y bibliotecas**: JavaFX, Maven
-- **Herramientas de desarrollo**: Git, GitHub, VS Code, Eclipse, IntelliJ IDEA
-- **Bases de datos**: MySQL, SQLite
-- **Otros conocimientos**: Estructura de datos, patrones de diseño, diseño de sistemas, redes y comunicaciones
+I aim to build robust, scalable, and maintainable systems with a strong focus on clean architecture and software engineering principles.
 
-### 📚 Proyectos Destacados
-1. **[Billetera Virtual](https://github.com/Estebangmz666/ProyectoFinalP3)**
-   - Desarrollo de una aplicación de billetera digital que permite gestionar usuarios, cuentas y transacciones con funcionalidad completa de transferencias y retiros.
-   - Uso de JavaFX para la interfaz gráfica y Maven para la organización del proyecto.
-   - Implementación de patrones de diseño y excepciones personalizadas.
-   - Sincronización de datos mediante sockets y manejo de concurrencia.
+### Technical Skills
 
-2. **[Proyecto de Grafos](https://github.com/Estebangmz666/ProyectoGrafos)**
-   - Creación de un sistema interactivo para manipular grafos en Java, donde es posible añadir nodos, aristas y asignar pesos a las aristas.
-   - Implementación de los algoritmos de Warshall y Dijkstra para resolver problemas de rutas mínimas y caminos en el grafo.
-   - Incluye pruebas para grafos dirigidos y no dirigidos, con un sistema visual que permite observar las relaciones y pesos en tiempo real.
+- **Programming Languages**: Java, Python
+- **Frameworks and Libraries**: JavaFX, Maven
+- **Development Tools**: Git, GitHub, VS Code, Eclipse, IntelliJ IDEA
+- **Databases**: MySQL, SQLite
+- **Core Knowledge**: Data structures, design patterns, system architecture, networks and communication
 
-3. **Proyecto Arduino - Unidad Aritmético-Lógica**
-   - Implementación de una ALU para operaciones básicas usando Arduino.
-   - Conexión y transferencia de datos entre dispositivos.
-   - Incluye soporte para las instrucciones ISA, adaptadas para el contexto de la infraestructura computacional.
+### Current Goals
 
-4. **Entorno educativo interactivo para Infraestructura Computacional**
-   - Desarrollo de una aplicación interactiva con múltiples funcionalidades y recursos de aprendizaje sobre infraestructura computacional.
-   - Enfoque en la programación concurrente, utilizando hilos y sockets.
+- Strengthen my understanding of advanced algorithms and data structures
+- Deepen my knowledge in cryptography and cybersecurity
+- Design scalable, well-architected systems using clean code and best practices
 
-### 📈 Mis Objetivos
-Mi objetivo es desarrollar software con alto impacto, usando principios de diseño robusto y técnicas avanzadas de programación. Me esfuerzo en aplicar buenas prácticas y metodologías ágiles en mis proyectos, y siempre estoy en búsqueda de nuevas oportunidades de aprendizaje en desarrollo y sistemas.
+### What I'm Learning
 
-### 🌐 Portafolio
-- **[Mi portafolio en línea](https://estebangmz666.github.io)** - Descubre más sobre mis proyectos y experiencia.
+- Implementation of custom data structures and algorithms in Java
+- Secure software development fundamentals
+- Scalable systems architecture
 
-### 🌱 Actualmente aprendiendo
-- Implementación avanzada de algoritmos y estructuras de datos
-- Fundamentos de criptografía y seguridad informática
-- Diseño y arquitectura de sistemas escalables
+### Portfolio
 
-### 💬 Pregúntame sobre
-- Desarrollo de software en Java y patrones de diseño.
-- Cómo gestionar múltiples hilos y sockets en proyectos Java.
-- Conectar dispositivos con Arduino y crear entornos de prueba interactivos.
-- Implementar estructuras de datos y algoritmos en Java.
+- **[Visit my online portfolio](https://estebangmz666.github.io)** – Explore more about my work and academic experience
 
-### 🤓 Algunos datos curiosos
-- 📘 Me encanta aprender y explorar nuevas tecnologías en programación y diseño de sistemas.
-- 🔋 Cuando no estoy programando, disfruto de la electrónica y proyectos DIY con Arduino.
-- 🌐 Soy fan de las buenas prácticas en el desarrollo de software, como el uso de patrones de diseño y principios SOLID.
-- ☕ Java es mi lenguaje favorito (¡pero también me atrevo con Python de vez en cuando!).
+### Contact
 
-### 📫 Conéctate conmigo
-- **Email**: estebangumy05@gmail.com
-- **LinkedIn**: [linkedin.com/in/zNotKayn](https://www.linkedin.com/in/zNotKayn)
-- **GitHub**: [github.com/Estebangmz666](https://github.com/Estebangmz666)
+- **Email**: estebangumy05@gmail.com  
+- **LinkedIn**: [linkedin.com/in/zNotKayn](https://www.linkedin.com/in/zNotKayn)  
 
 ---
 
-¡Gracias por visitar mi perfil!
+Thanks for stopping by.
