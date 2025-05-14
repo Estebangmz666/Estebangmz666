@@ -9,7 +9,7 @@ I aim to build robust, scalable, and maintainable systems with a strong focus on
 
 - **Programming Languages**: Java, Python
 - **Frameworks and Libraries**: JavaFX, Maven
-- **Development Tools**: Git, GitHub, VS Code, Eclipse, IntelliJ IDEA
+- **Development Tools**: Git, GitHub, VS Code
 - **Databases**: MySQL, SQLite
 - **Core Knowledge**: Data structures, design patterns, system architecture, networks and communication
 
